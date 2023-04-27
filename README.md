@@ -1,5 +1,11 @@
-# TO DO APP ❤️ Made with Flutter
+# TO DO APP Flutter
 
-Full tutorial here: https://youtu.be/mMgr47QBZWA
+Project Guide:
+Dr. Lalit Purohit, Professor, IT Dept, SGSITS
+MR. Upendra Singh, Assistant Professor, IT Dept, SGSITS
 
-![Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of  (58)](https://user-images.githubusercontent.com/29016489/191162308-a7074e8b-b414-4d08-9b03-9999988e4467.png)
+Description: The application is made in Flutter Dart. For the storage of Data I have used Hive, and saved the data in local variables.
+Functionalities:  Create a Todo
+                  Tick-mark a Todo
+                  Delete a Todo
+
